@@ -31,7 +31,7 @@ _Other installation options can be found at https://guide.fission.codes/installa
 ## Install Fission (MacOS)
 ```bash
 
-brew tap fission-suite/fission
+brew tap fission-codes/fission
 brew install fission-cli
 ```
 
@@ -42,7 +42,7 @@ brew install fission-cli
 ```bash
 # Download our binary
 curl
-  \ https://github.com/fission-suite/web-api/releases/download/1.16.0/deb-cli
+  \ https://github.com/fission-codes/web-api/releases/download/1.16.0/deb-cli
   \ -o fission-cli
 
 # Give it executable permission
@@ -107,7 +107,7 @@ https://blog.runfission.com
 ## Portable User Settings
 ![](https://imgur.com/QlK6NCf.png)
 
-https://fission-suite.github.io/ipfs-user-settings/
+https://fission-codes.github.io/ipfs-user-settings/
 
 ---
 
